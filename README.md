@@ -1,2 +1,2 @@
-# scripts
-Usefull scipts
+# Scripts
+Just a collection of usefull scipts
